@@ -1,5 +1,12 @@
 # Asteroids
 
+The original asteroids game recreated in Java as well as added features such as:
+* A shop and upgrades
+* Enemy ships
+* Boss battles
+* Enemy waves
+
+![Asteroids](https://i.imgur.com/M9cpD3pl.png)
 ## Controls
 
 | Key  | Action |
