@@ -5,6 +5,8 @@ The original asteroids game recreated in Java as well as added features such as:
 * Enemy ships
 * Boss battles
 * Enemy waves
+* Camera which follows the player
+* Minimap in the top left corner
 
 ![Asteroids](https://i.imgur.com/M9cpD3pl.png)
 ## Controls
